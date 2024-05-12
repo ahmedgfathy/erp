@@ -1,7 +1,2 @@
-from django.db import models
-
-
-# Create your models here.
-
-
+# In your Django app's models.py file
 
